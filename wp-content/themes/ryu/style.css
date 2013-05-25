@@ -873,6 +873,7 @@ body {
 	margin-top: 34px;
 	max-width: 696px;
 	width: 100%;
+	font-size: 18px;
 }
 .page-header {
 	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
