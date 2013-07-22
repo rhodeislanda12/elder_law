@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">	
+	<title>Goeman Law</title>
+
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/bootstrap-responsive.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/bootstrap.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/jquery-ui-1.9.2.custom.min.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/application.css"/>
+
+	<!-- <link rel="icon" type="image/png" href="assets/images/RGfavicon.ico"> -->
+
+</head>
+
+<body class="home" data-spy="scroll">
+	<nav class="navbar">
+		<div class="navbar-inner">
+			<div class="container">
+				<a class="brand" href="http://www.michellerittner.com/GoemanLaw"><h2>Robin Goeman</h2><small>Attorney at Law</small></a>
+					<div class="nav-collapse">
+						<ul class="nav">
+							<li>
+								<a href="about.shtml">About</a>
+							</li>	
+							<li>
+								<a href="practice.shtml">Practice Areas</a>
+							</li>	
+							<li>
+								<a href="faqs.shtml">FAQs</a>
+							</li>
+							<li>
+								<a href="blog.shtml">Blog</a>
+							</li>	
+							<li>
+								<a href="contact.shtml">Contact</a>
+							</li>	
+						</ul>
+					</div>
+			</div>	
+		</div>	
+	</nav>
+<div class="container">
+			<header class="hero-unit">
+				<h1>
+					Elder Law Firm
+				</h1>	
+				<h4>
+					Safeguarding Assets, Preserving Independence
+				</h4>	
+				<p>
+					<a class="btn btn-info btn-large" href="about.shtml">Learn More</a>
+				</p>	
+			</header>		
+	</div>
+	<div class="container">
+		<section>
+			<div class="row features">
+				<div class="span4"> 
+					<img src="assets/images/guardianship.png"></img>
+					<h3>Guardianships</h3>
+					<p> Learn more about Article 81 guardianships, guardians ad litem, and powers of attorney.</p>
+					<a class="btn btn-mini" href="guardianship.shtm">Learn More</a>				
+				</div>
+				<div class="span4"> 
+					<img src="assets/images/lock.png"></img>
+					<h3>Estate Planning</h3>
+					<p> Learn more about wills, trusts and asset protection.</p>
+					<a class="btn btn-mini" href="estateplanning.shtm">Learn More</a>		
+				</div>
+				<div class="span4"> 
+					<img src="assets/images/medicaid.png"></img>
+					<h3>Medicaid</h3>
+					<p> Learn more about Medicaid planning and nursing home placement.</p>
+					<a class="btn btn-mini" href="medicaid.shtm">Learn More</a>		
+				</div>
+			</div>	
+		</section>
+	</div>
+
+
+<!--#include virtual="footer.html" -->
