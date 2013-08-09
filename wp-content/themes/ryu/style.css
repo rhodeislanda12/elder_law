@@ -666,7 +666,7 @@ body {
 	margin-bottom: 34px;
 }
 .site-title {
-	font: 700 30px/1.4782608695 'Lato', sans-serif;
+	font: 700 30px/1.4782608695 'Lato';
 	margin: 0;
 	text-align: center;
 	text-transform: uppercase;
