@@ -1,3 +1,20 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">	
+	<title>FAQs - Robin Goeman</title>
+	<meta name="description=" content="Robin Goeman is a Brooklyn based lawyer specializing in elder law">
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/bootstrap-responsive.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/bootstrap.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/jquery-ui-1.9.2.custom.min.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/application.css"/>
+
+	<!-- <link rel="icon" type="image/png" href="assets/images/RGfavicon.ico"> -->
+
+</head>
+
 <!--#include virtual="header.html" -->
 
 <div class="page">
@@ -9,88 +26,86 @@
 		<div id="box-links">
 
 			<div class="span2"> 
-				<a href="#box1">
-					Health Care Proxies
+				<a href="#estate_planning">
+					Estate Planning
 				</a>
 			</div>
 
 			<div class="span2">
-				<a href="#box2">
-					Advanced Directives
+				<a href="#guardianship">
+					Guardianship
 				</a>
 			</div>
 
 			<div class="span2">
-				<a href="#box3">
-					Medicaid Planning
+				<a href="#medicaid">
+					Medicaid
 				</a>
-			</div>
-
-			<div class="span2">
-				<a href="#box4">
-					Trusts
-				</a>	
 			</div>
 
 		</div>
 
 	</div>	
 		
-		<br>
-
-	<div class="row">
-
-		<div id="box-links">
-
-			<div class="span2">
-				<a href="#box5">
-					Powers of Attorney
-				</a>	
-			</div>
-			<div class="span2">
-				<a href="#box6">
-					Probate
-				</a>	
-			</div>
-			<div class="span2">
-				<a href="#box7">
-					Guardianships
-				</a>	
-			</div>	
-			<div class="span2">
-				<a href="#box8">
-					Wills
-				</a>	
-			</div>
-
-		</div>
-
-	</div>	
+	
 <br>
 <hr></hr>
-<div id="box1"><h3>Health Care Proxies</h3><p>lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</p></div>
+<div id="estate_planning"><h3>Estate Planning</h3>
+	<p>
+		Estate planning involves both planning for our family and property after our deaths, as well as planning for our long-term care while we are living.  There are multiple tools that we use to protect your autonomy, control, and decision-making concerning your personal life, health care, and assets.  
+	</p>
+	<p>
+		A <span style="font-weight:bold;">will</span> is the most basic estate planning document.  It directs the disposal of your assets that do not already have a beneficiary attached.  (An account with a designated beneficiary, such as a CD that is “In trust for” someone, goes directly to the beneficiary and is not a probate asset).  The will also allows you to nominate your executor.  In the absence of a will, you are considered to die <span style="font-style:italic;">intestate</span> and the State of New York will determine who are your heirs at law and who is the <span style="font-style:italic;">administrator</span> of your estate.  
+	</p>	
+	<p>
+		<span style="font-weight:bold;">Trusts</span> are entities that we create to own your assets and have your assets managed by a trustee.  Trusts can avoid probate, be used for Medicaid planning and asset protection, can hold the assets of minors until they are a suitable age, or hold assets for disabled people so benefits are not disrupted.  There are many other ways a trust can be used in estate planning as well—tax planning, planning for second marriages, charitable giving, etc.  A trust should be drafted to address the specific needs you have for your own planning and the future benefit of your family.  
+	</p>
+	<p>
+		<span style="font-weight:bold;">A Power of Attorney</span> is a document that names an agent to conduct business on your behalf while you are alive.  The Durable Power of Attorney continues even after you lack capacity to make decisions for yourself.  This is an essential document.  Even spouses are not allowed to make financial decisions for one another without being given a Power of Attorney.  In New York, there is the Statutory Short Form, which can add modifications to include Medicaid planning, e.g.  There is also the Statutory Gifts Rider, which allows your agent to make gifts and create trusts on your behalf.  The Statutory Gifts Rider is often the linchpin in planning for long-term care, as it allows your agent to engage in Medicaid planning or asset protection planning. 
+	</p>	
+	<p>
+		A <span style="font-weight:bold;">Health Care Proxy</span> is a document that names a person to communicate your health care decisions in the event you are unable to do so yourself.  The Health Care Proxy applies in both the community and in hospitals and nursing homes.  The Family Health Care Decisions Act, which creates a pecking order of decision makers, only applies when the patient is in a hospital or nursing home.  To maintain the greatest control over you health care, both at home and in the hospital, you should do a Health Care Proxy. 
+	</p>	
+	<p>
+		There are many reasons to do estate planning.  The main reason is to make things easier for our loved ones by leaving instructions for when your voice cannot be heard.  You may also wish to make a plan for a minor or disabled child, protect the assets you have worked hard to obtain, or make sure that the charity of your choice receives a gift.  
+	</p>	
+	<p>
+		Do not hesitate to call me at 718-866-5373 or email rgoeman(at)gmail.com to discuss your estate planning needs.  I would be honored to assist you with anything from simple to complex.  I also promise that I will not create an estate plan that is more complicated than what you need to get the job done right.  
+	</p>	
+</div>
 
  
-<div id="box2"><h3>Advanced Directives</h3><p>lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum orem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</p></div><br>
+<div id="guardianship">
+	<h3>Guardianship</h3>
+	<p>
+		<span style="font-weight:bold;">17A guardianships</span> are granted by the Surrogate’s Court and are designed primarily for developmentally disabled individuals—if you were disabled  as a minor and due to your disabilities will not be able to manage your own affairs as an adult. 
+	</p>
+	<p>
+		<span style="font-weight:bold;">Article 81</span> guardianships are for individuals who had capacity as adults, but then are facing limitations, unable to meet their own needs as to person or property, and cannot adequately understand and appreciate the nature and consequences of such inability. 
+	</p>	
+	<p>
+		To avoid the need for a guardian, and the litigation process that accompanies the appointment of a guardian, you should have <span style="font-weight:bold;">advanced directives</span> in place, which allow an agent to make decisions on your behalf regarding your personal and financial affairs.  This means having a Power of Attorney naming someone you trust as your agent and giving them sufficient powers to plan for you in worst-case scenario situations.  It also means having a Health Care Proxy to communicate your health decisions when you are unable to.  
+	</p>	
+	<p>
+		A <span style="font-weight: bold; font-style: italic;">Guardian ad litem</span>, also called a GAL, is a unique type of temporary guardian that the Court appoints for someone who is a party in a court case, but may not be capable of adequately protecting his or her rights.  Typically, a GAL would be appointed for an elderly person in a Housing Court action who cannot physically come to court, e.g.  A GAL might also be appointed for a disabled beneficiary in a probate proceeding.  Minor children involved in litigation typically have a court-appointed GAL to watch over their rights. 
+	</p>
+	<p>
+		If your loved one is potentially in need of a guardian to protect their health, safety, and/or property, you should give me a call at 718-866-5373 or send me an email to rgoeman(at)gmail.com.  I can also provide assistance if you are a party to a guardianship proceeding or need to oppose the appointment of a guardian generally or oppose a specific person being appointed guardian. 
+	</p>	
+</div>
+<br>
 
-
-<div id="box3"><h3>Medicaid Planning</h3><p>lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum orem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</p></div><br>
-
-
-<div id="box4"><h3>Trusts</h3><p>lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum orem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</p></div><br>
-
-<div id="box5"><h3>Powers of Attorney</h3><p>lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum orem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</p></div><br>
-
-<div id="box6"><h3>Probate</h3><p>lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum orem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</p></div><br>
-
-<div id="box7"><h3>Guardianships</h3><p>lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum orem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</p></div><br>
-
-<div id="box8"><h3>Wills</h3><p>lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum orem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</p></div><br>
-
-
-</div>	
-
-
-
-
-<!--#include virtual="footer.html" -->
+<div id="medicaid"><h3>Medicaid</h3>
+	<p>
+		<span style="font-weight:bold;">Medicaid</span> is a government health program for people whose monthly care expenses exceed their income and who also have resources below the Medicaid limits.  Medicaid differs from Medicare because it will pay for nursing home or for a home health aide.  
+	</p>
+	<p>
+		<span style="font-weight:bold;">Community Medicaid</span> has a one (1) month look-back period.  Your resources, including bank accounts, CDs, brokerage accounts, savings bonds, stocks, etc., cannot be worth more than $14,400 in 2013.  Your primary residence (subject to the equity cap), qualified retirement funds, vehicle, and personal belongings are the general exemptions from countable resources.  Your income is also limited to $820 per month, and any income in excess of that level must be deposited into a pooled income trust, paid to Medicaid’s “Surplus Program”, or spent down on medical bills.  Once eligible financially for Community Medicaid, you can enroll in a Manged Long Term Care (MLTC) program, which will provide home attendants, meals on wheels, adult day programs, and a variety of other long-term care services, depending on your needs. 
+	</p>	
+	<p>
+		<span style="font-weight:bold;">Nursing Home Medicaid</span> has a five (5) year look-back period.  If you think you may need nursing home Medicaid benefits in the future, you should consider planning now, as a Medicaid trust could shelter assets such as your home.  Nursing Home Medicaid will pay for nursing home costs after the Medicare rehab days are exhausted.   If you need Nursing Home Medicaid but have not planned ahead, there are still planning strategies we can use to assist you in sheltering assets or making last-minute gifts, while also planning for the Medicaid penalty period.  This includes the use of gifts with a promissory note or the purchase of a Medicaid-compliant annuity, as well as transfers of the house to a caretaker child, purchase of pre-need funerals for family members, and transfers to a disabled child or disabled individual.  
+	</p>	
+	<p>
+		If you or a loved one needs Medicaid or is looking to plan for their long-term care costs, please call me at 718-866-5373, or email me at rgoeman(at)gmail.com, and we can arrange a full consultation concerning your financial situation and eligibility issues. 
+	</p>	
+</div>

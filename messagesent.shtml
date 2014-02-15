@@ -4,7 +4,7 @@
 
 <head>
 	<meta charset="utf-8">	
-	<title>Robin Goeman's Blog</title>
+	<title>Contact Robin Goeman</title>
 	<meta name="description=" content="Robin Goeman is a Brooklyn based lawyer specializing in elder law">
 	<link rel="stylesheet" type="text/css" href="assets/stylesheets/bootstrap-responsive.css"/>
 	<link rel="stylesheet" type="text/css" href="assets/stylesheets/bootstrap.css"/>
@@ -18,13 +18,15 @@
 <!--#include virtual="header.html" -->
 
 
+
 <div class="page">
 	<h1>
-		Blog
+		Contact
 	</h1>
-	<div class="coming-soon">
-		Coming Soon<br><br><br><br><br><br><br><br><br>
-	</div>	
+	<section>
+		<p>Thank you! Your message has been sent.</p>
+		<br><br><br><br><br>
+	</section>
 </div>	
 
 

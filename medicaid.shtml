@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">	
+	<title>FAQs - Robin Goeman</title>
+	<meta name="description=" content="Robin Goeman is a Brooklyn based lawyer specializing in elder law">
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/bootstrap-responsive.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/bootstrap.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/jquery-ui-1.9.2.custom.min.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/application.css"/>
+
+	<!-- <link rel="icon" type="image/png" href="assets/images/RGfavicon.ico"> -->
+
+</head>
+
+<!--#include virtual="header.html" -->
+
+<div class="page">
+	<h1>
+		Medicaid
+	</h1>
+	<p>
+		<span style="font-weight:bold;">Medicaid</span> is a government health program for people whose monthly care expenses exceed their income and who also have resources below the Medicaid limits.  Medicaid differs from Medicare because it will pay for nursing home or for a home health aide.  
+	</p>
+	<p>
+		<span style="font-weight:bold;">Community Medicaid</span> has a one (1) month look-back period.  Your resources, including bank accounts, CDs, brokerage accounts, savings bonds, stocks, etc., cannot be worth more than $14,400 in 2013.  Your primary residence (subject to the equity cap), qualified retirement funds, vehicle, and personal belongings are the general exemptions from countable resources.  Your income is also limited to $820 per month, and any income in excess of that level must be deposited into a pooled income trust, paid to Medicaid’s “Surplus Program”, or spent down on medical bills.  Once eligible financially for Community Medicaid, you can enroll in a Manged Long Term Care (MLTC) program, which will provide home attendants, meals on wheels, adult day programs, and a variety of other long-term care services, depending on your needs. 
+	</p>	
+	<p>
+		<span style="font-weight:bold;">Nursing Home Medicaid</span> has a five (5) year look-back period.  If you think you may need nursing home Medicaid benefits in the future, you should consider planning now, as a Medicaid trust could shelter assets such as your home.  Nursing Home Medicaid will pay for nursing home costs after the Medicare rehab days are exhausted.   If you need Nursing Home Medicaid but have not planned ahead, there are still planning strategies we can use to assist you in sheltering assets or making last-minute gifts, while also planning for the Medicaid penalty period.  This includes the use of gifts with a promissory note or the purchase of a Medicaid-compliant annuity, as well as transfers of the house to a caretaker child, purchase of pre-need funerals for family members, and transfers to a disabled child or disabled individual.  
+	</p>	
+	<p>
+		If you or a loved one needs Medicaid or is looking to plan for their long-term care costs, please call me at 718-866-5373, or <a href="mailto: rgoeman@gmail.com?Subject=Client Inquiry" target="_top">email me</a>, and we can arrange a full consultation concerning your financial situation and eligibility issues. 
+	</p>	
+</div>	
+
+<!--#include virtual="footer.html" -->

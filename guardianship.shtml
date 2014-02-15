@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">	
+	<title>FAQs - Robin Goeman</title>
+	<meta name="description=" content="Robin Goeman is a Brooklyn based lawyer specializing in elder law">
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/bootstrap-responsive.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/bootstrap.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/jquery-ui-1.9.2.custom.min.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/application.css"/>
+
+	<!-- <link rel="icon" type="image/png" href="assets/images/RGfavicon.ico"> -->
+
+</head>
+
+<!--#include virtual="header.html" -->
+
+<div class="page">
+	<h1>
+		Guardianship
+	</h1>
+	<p>
+		<span style="font-weight:bold;">17A guardianships</span> are granted by the Surrogate’s Court and are designed primarily for developmentally disabled individuals—if you were disabled  as a minor and due to your disabilities will not be able to manage your own affairs as an adult. 
+	</p>
+	<p>
+		<span style="font-weight:bold;">Article 81</span> guardianships are for individuals who had capacity as adults, but then are facing limitations, unable to meet their own needs as to person or property, and cannot adequately understand and appreciate the nature and consequences of such inability. 
+	</p>	
+	<p>
+		To avoid the need for a guardian, and the litigation process that accompanies the appointment of a guardian, you should have <span style="font-weight:bold;">advanced directives</span> in place, which allow an agent to make decisions on your behalf regarding your personal and financial affairs.  This means having a Power of Attorney naming someone you trust as your agent and giving them sufficient powers to plan for you in worst-case scenario situations.  It also means having a Health Care Proxy to communicate your health decisions when you are unable to.  
+	</p>	
+	<p>
+		A <span style="font-weight: bold; font-style: italic;">Guardian ad litem</span>, also called a GAL, is a unique type of temporary guardian that the Court appoints for someone who is a party in a court case, but may not be capable of adequately protecting his or her rights.  Typically, a GAL would be appointed for an elderly person in a Housing Court action who cannot physically come to court, e.g.  A GAL might also be appointed for a disabled beneficiary in a probate proceeding.  Minor children involved in litigation typically have a court-appointed GAL to watch over their rights. 
+	</p>
+	<p>
+		If your loved one is potentially in need of a guardian to protect their health, safety, and/or property, you should give me a call at 718-866-5373 or <a href="mailto: rgoeman@gmail.com?Subject=Client Inquiry" target="_top">email me</a>.  I can also provide assistance if you are a party to a guardianship proceeding or need to oppose the appointment of a guardian generally or oppose a specific person being appointed guardian. 
+	</p>
+</div>	
+
+<!--#include virtual="footer.html" -->

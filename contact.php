@@ -16,7 +16,24 @@
 </head>
 
 <!--#include virtual="header.html" -->
+<?php
+	$name = $_POST[ 'name'];
+	$email = $_POST['email'];
+	$message = $_POST['message'];
+	$from = 'From: Goemanlaw.com';
+	$to = 'michelle.e.rittner@gmail.com';
+	$subject = 'New Client Inquiry';
 
+	$body = "From: $name\n Email: $email\n Message:\n $message";
+
+	if ($_POST['submit']) {
+		if (mail ($to, $subject, $body, $from)){
+			echo '<p>Your message has been sent!</p>';
+		} else{
+			echo '<p>Something went wrong, please try again</p>';
+		}
+	}
+?>
 
 
 <div class="page">
@@ -34,7 +51,7 @@
 					Request a Consultation with Robin Goeman
 				</div><br>
 				<section class="body">
-					<form method="post" action="index.php" enctype="application/x-www-form-urlencoded">
+					<form method="post" action="contact.php" enctype="text/plain">
 						Name:<br>
 						<input type="text" name="name"><br>
 						E-mail:<br>

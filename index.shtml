@@ -4,8 +4,8 @@
 
 <head>
 	<meta charset="utf-8">	
-	<title>Goeman Law</title>
-
+	<title>Lawyer Robin Goeman - Brooklyn New York Elder Law Attorney</title>
+	<meta name="description=" content="Robin Goeman is a Brooklyn based lawyer specializing in elder law">
 	<link rel="stylesheet" type="text/css" href="assets/stylesheets/bootstrap-responsive.css"/>
 	<link rel="stylesheet" type="text/css" href="assets/stylesheets/bootstrap.css"/>
 	<link rel="stylesheet" type="text/css" href="assets/stylesheets/jquery-ui-1.9.2.custom.min.css"/>
@@ -16,68 +16,92 @@
 </head>
 
 <body class="home" data-spy="scroll">
-	<nav class="navbar">
-		<div class="navbar-inner">
-			<div class="container">
-				<a class="brand" href="http://goemanlaw.com"><h2>Robin Goeman</h2><small>Attorney at Law</small></a>
-					<div class="nav-collapse">
-						<ul class="nav">
-							<li>
-								<a href="about.shtml">About</a>
-							</li>	
-							<li>
-								<a href="practice.shtml">Practice Areas</a>
-							</li>	
-							<li>
-								<a href="faqs.shtml">FAQs</a>
-							</li>
-							<li>
-								<a href="blog.shtml">Blog</a>
-							</li>	
-							<li>
-								<a href="contact.shtml">Contact</a>
-							</li>	
-						</ul>
+	<div itemscope itemtype="http://schema.org/Attorney">
+		<nav class="navbar">
+			<div class="navbar-inner">
+				<div class="container">
+					<div class="brand">
+						<a href="http://goemanlaw.com" itemprop="name">
+							<h2 class="name">Robin Goeman</h2>
+						</a>
+						<small>Attorney at Law<br>
+							<div id="address_info">
+								26 Court St., Suite 913, Brooklyn, NY 11242<br>
+								<strong>Phone: 718-866-5373</strong>
+							</div>
+						</small>
 					</div>
+						<div class="nav-collapse">
+							<ul class="nav">
+								<li>
+									<a href="about.shtml">About</a>
+								</li>	
+								<li>
+									<a href="practice.shtml">Practice Areas</a>
+								</li>	
+								<li>
+									<a href="comingsoon.shtml">FAQs</a>
+								</li>
+								<li>
+									<a href="http://twitter.com/GoemanLaw">Blog</a>
+								</li>	
+								<li>
+									<a href="contact.shtml">Contact</a>
+								</li>	
+							</ul>
+						</div>
+				</div>	
 			</div>	
-		</div>	
-	</nav>
-<div class="container">
-			<header class="hero-unit">
-				<h1>
-					Elder Law Firm
-				</h1>	
-				<h4>
-					Safeguarding Assets, Preserving Independence
-				</h4>	
-				<p>
-					<a class="btn btn-info btn-large" href="about.shtml">Learn More</a>
-				</p>	
-			</header>		
-	</div>
-	<div class="container">
-		<section>
-			<div class="row features">
-				<div class="span4"> 
-					<img src="assets/images/guardianship.png"></img>
-					<h3>Guardianships</h3>
-					<p> Learn more about Article 81 guardianships, guardians ad litem, and powers of attorney.</p>
-					<a class="btn btn-mini" href="comingsoon.shtml">Learn More</a>				
-				</div>
-				<div class="span4"> 
-					<img src="assets/images/lock.png"></img>
-					<h3>Estate Planning</h3>
-					<p> Learn more about wills, trusts and asset protection.</p>
-					<a class="btn btn-mini" href="comingsoon.shtml">Learn More</a>		
-				</div>
-				<div class="span4"> 
-					<img src="assets/images/medicaid.png"></img>
-					<h3>Medicaid</h3>
-					<p> Learn more about Medicaid planning and nursing home placement.</p>
-					<a class="btn btn-mini" href="comingsoon.shtml">Learn More</a>		
-				</div>
+		</nav>
+		<div class="container body">
+				<header class="hero-unit">
+					<h1 itemprop="description">
+						Elder Law Firm
+					</h1>	
+					<h4>
+						Safeguarding Assets, Preserving Independence
+					</h4>	
+					<p>
+						<a class="btn btn-info btn-large" href="about.shtml">Learn More</a>
+					</p>	
+				</header>		
+		</div>
+		<div class="container">
+			<section>
+				<div class="row features">
+					<div class="span4"> 
+						<img src="assets/images/guardianship.png"></img>
+						<h3>Guardianships</h3>
+						<p> Learn more about Article 81 guardianships, guardians ad litem, and powers of attorney.</p>
+						<a class="btn btn-mini" href="guardianship.shtml">Learn More</a>				
+					</div>
+					<div class="span4"> 
+						<img src="assets/images/lock.png"></img>
+						<h3>Estate Planning</h3>
+						<p> Learn more about wills, trusts and asset protection.</p>
+						<a class="btn btn-mini" href="estate_planning.shtml">Learn More</a>		
+					</div>
+					<div class="span4"> 
+						<img src="assets/images/medicaid.png"></img>
+						<h3>Medicaid</h3>
+						<p> Learn more about Medicaid planning and nursing home placement.</p>
+						<a class="btn btn-mini" href="medicaid.shtml">Learn More</a>		
+					</div>
+				</div>	
+			</section>
+		</div>
+		<div class="extra_metadata">
+			<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+				<span itemprop="streetAddress">26 Court St., Suite 913</span>
+				<span itemprop="addressLocality">Brooklyn</span>
+				<span itemprop="addressRegion">NY</span>
+				<span itemprop="postalCode">11242</span>
+				<span itemprop="telephone">(718) 866-5373</span>
+				<span itemprop="faxNumber">(718) 989-8568</span>
+				<span itemprop="email">rgoeman[at]gmail.com</span>
 			</div>	
-		</section>
+			<a itemprop="map" href="https://www.google.com/maps?q=26+Court+Street,+Brooklyn,+NY&sll=40.69329634157109,-73.99081069999998&sspn=0.005906470513862653,0.014796846533082025&t=m&hnear=26+Court+St,+Brooklyn,+New+York+11242&z=16"></a>
+		</div>
 	</div>
 
 

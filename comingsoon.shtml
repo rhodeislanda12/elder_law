@@ -1,3 +1,20 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">	
+	<title>Lawyer Robin Goeman - Coming Soon</title>
+	<meta name="description=" content="Robin Goeman is a Brooklyn based lawyer specializing in elder law">
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/bootstrap-responsive.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/bootstrap.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/jquery-ui-1.9.2.custom.min.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/application.css"/>
+
+	<!-- <link rel="icon" type="image/png" href="assets/images/RGfavicon.ico"> -->
+
+</head>
+
 <!--#include virtual="header.html" -->
 
 
@@ -8,5 +25,6 @@
 </div>	
 
 
+<!--#include virtual="footer.html" -->
 
 

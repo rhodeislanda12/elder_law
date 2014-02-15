@@ -1,3 +1,20 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">	
+	<title>About Robin Goeman</title>
+	<meta name="description=" content="Robin Goeman is a Brooklyn based lawyer specializing in elder law">
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/bootstrap-responsive.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/bootstrap.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/jquery-ui-1.9.2.custom.min.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/stylesheets/application.css"/>
+
+	<!-- <link rel="icon" type="image/png" href="assets/images/RGfavicon.ico"> -->
+
+</head>
+
 <!--#include virtual="header.html" -->
 
 <div class="about_overlay"></div>	
@@ -13,11 +30,16 @@ I truly enjoy working with seniors.  I love to hear the stories they have to tel
 During law school I interned at the Legal Aid Society's Brooklyn Office for the Aging.  My first job was as an associate at Freedman Fish & Grimaldi with a heavy caseload consisting of Medicaid planning and application.  My next position was with MFY Legal Services in their Manhattan Legal Aid to Seniors Project, where I continued to work with seniors, but with a focus on housing issues as well as public benefits.  Now I have my own practice, where I mix Medicaid, guardianship, estate planning, and housing issues with a focus on seniors and the disabled. <br><br>
 
 When not working, I like to go down to Red Hook's Valentino Pier with my schnoodle dog and watch him swim in the harbor.<br><br>
+
+<a href="https://plus.google.com/100494636202198888447" style="color: #333; text-decoration:underline;" rel="publisher">Google+</a><br><br>
+<a class="btn btn-info" href="contact.shtml">Contact Me</a>
 	</p>
 	<h2>
 		Press
 	</h2>	
-	<p> Coming Soon!</p>
+	<a href="http://www.avvo.com/attorneys/11242-ny-robin-goeman-1019625.html?utm_campaign=badge_notify_pro&utm_content=rating_badge_jd&utm_medium=email&utm_source=notification">
+	<div id="avvo"><img src="/assets/images/avvo.png"></div>
+	</a>
 </div>
 
 

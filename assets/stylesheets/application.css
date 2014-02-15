@@ -3,19 +3,34 @@
     src: url("../fonts/Allura-Regular.otf") format("truetype");
 }
 
-.brand h2
+.brand 
+{
+	padding: 10px 0 0 0px;
+	
+}
+
+a, a:hover 
+{
+	color: #777;
+	text-decoration: none;
+}
+
+h2.name
 {
 	font-family: "Allura";
 	font-size: 50px;
-	padding: 10px 0 0 20px;
 	line-height: 20px
 }
 
-.brand small
-{
-	padding: 10px 0 0 20px;
-}
 
+#address_info
+{
+	float: left;
+	font-size: 12px;
+	font-family: "Helvetica Neue";
+	color: #777;
+	line-height: 16px;
+}
 
 .home 
 {
@@ -25,7 +40,7 @@
 
 .navbar
 {
-	height: 86px;
+	height: 135px;
 	margin-bottom: 0px;
 	position: absolute;
 	top: 0px;
@@ -47,24 +62,41 @@
 	padding-right:0px;
 	padding-bottom: 10px;
 	padding-left: 70px;
+	height: 123px;
 }
 
 .container
 {
 	width: 940px;
 	background: none;
+	min-width: 391px;
 }
+
+.container.body
+{
+	padding-left: 70px;
+	margin: 10px 0px 0px 0px;	
+}
+
+
+
+@media screen and (max-width: 1162px)
+{
+
+}
+
 
 h4
 {
 	line-height: 20px;
 }
 
-.nav 
+.navbar ul.nav 
 {
-	padding-left: 130px;
+	padding-left: 98px;
 	padding-top: 15px;
 	font-size: 18px;
+	margin: 35px 0px 0 0;
 }
 
 .phone
@@ -81,12 +113,10 @@ h4
 .hero-unit
 {
 	height: 324px;
-	padding: 180px 620px 0px 0px;
-	margin-right: -80px;
-	margin-left: -40px;
-	margin-bottom: 0;
+	padding: 0px 0px 0px 0px;
 	background: none;
 	color:white;
+	margin-top: 180px;
 }
 
 .hero-unit h1
@@ -187,7 +217,7 @@ footer p
 	bottom: 0;
 	top: 30px;
 	min-width: 1000px;
-	min-height: 661px;
+	min-height: 774px;
 }
 
 .page h1, #no_opacity h1
@@ -253,6 +283,8 @@ footer p
 	width:240px;
 	display: inline-block;
 	padding: 0 0px 0 0px;
+	position: relative;
+	top: -303px;
 }
 
 .contact-box2
@@ -284,6 +316,7 @@ footer p
 	font-family: "Allura";
 	font-size: 50px;
 	text-align: center;
+	margin-bottom: 54px;
 }
 
 .page .row
@@ -319,4 +352,46 @@ html,body
 .accordion.in.collapse, .accordion.in.collapse a
 {
 	color: #222;
+}
+
+.extra_metadata
+{
+	display: none;
+}
+
+#form_title
+{
+	font-size: 16px;
+	color: #222;
+	font-weight: 400;
+}
+
+#avvo
+{
+	float: left;
+	margin-left: -18px;
+}
+
+.page.practice-area {
+	margin-bottom: 95px;
+	bottom: 0;
+}
+
+.practice-list {
+	list-style-type: none;	
+	margin: 0 0 25px 25px;
+}
+
+.practice-list li {
+	line-height: 40px;
+	font-size: 20px;
+}
+
+.contact-btn
+{
+	margin: 0 0 0 24px;
+}
+
+.disclosure {
+	margin-top: 10px;
 }
