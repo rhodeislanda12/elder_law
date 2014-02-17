@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 
 	// echo "HELLO WORLD!";
 	// echo $_POST.array_keys;
@@ -28,3 +29,21 @@
 		}
 	}
 ?>
+=======
+/**
+ * Front to the WordPress application. This file doesn't do anything, but loads
+ * wp-blog-header.php which does and tells WordPress to load the theme.
+ *
+ * @package WordPress
+ */
+
+/**
+ * Tells WordPress to load the WordPress theme and output it.
+ *
+ * @var bool
+ */
+define('WP_USE_THEMES', true);
+
+/** Loads the WordPress Environment and Template */
+require('./wp-blog-header.php');
+>>>>>>> cb0d9fa8ef799bf7017bc0ec949bad553056335b
